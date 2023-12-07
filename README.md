@@ -8,7 +8,7 @@
 
 <h2 align="left">About me:</h2>
 - 🌱 I’m currently learning Neural Networks<br>
-- 📫 How to reach me **sv.shreya110@gmail.com**
+- 📫 How to reach me sv.shreya110@gmail.com
 
 
 <h2 align="left">Connect with me:</h2>
